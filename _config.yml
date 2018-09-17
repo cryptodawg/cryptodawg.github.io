@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Various Dog Noises"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Nick Evans"
+description              : "Musings of a junior software developer learning his way around cryptography, informational security, Python, and more!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Nick Evans"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Currently a junior software developer for a major telecom company. Interested in Python, cryptography, and big fluffy dogs."
+  location         : "Seattle, WA"
+  email            : "nievan94@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
